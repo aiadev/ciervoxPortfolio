@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ciervoxPortfolio/static/css/main.7845a2d7.chunk.css",
+    "main.js": "/ciervoxPortfolio/static/js/main.c61b53e4.chunk.js",
+    "runtime-main.js": "/ciervoxPortfolio/static/js/runtime-main.e0bb1a3f.js",
+    "static/js/2.b5b82122.chunk.js": "/ciervoxPortfolio/static/js/2.b5b82122.chunk.js",
+    "static/js/3.1310687c.chunk.js": "/ciervoxPortfolio/static/js/3.1310687c.chunk.js",
+    "index.html": "/ciervoxPortfolio/index.html",
+    "static/js/2.b5b82122.chunk.js.LICENSE.txt": "/ciervoxPortfolio/static/js/2.b5b82122.chunk.js.LICENSE.txt",
+    "static/js/3.1310687c.chunk.js.LICENSE.txt": "/ciervoxPortfolio/static/js/3.1310687c.chunk.js.LICENSE.txt",
+    "static/media/img1.f46e08a4.jpg": "/ciervoxPortfolio/static/media/img1.f46e08a4.jpg",
+    "static/media/img2.44ccb1ac.jpg": "/ciervoxPortfolio/static/media/img2.44ccb1ac.jpg",
+    "static/media/img3.09db15e1.jpg": "/ciervoxPortfolio/static/media/img3.09db15e1.jpg",
+    "static/media/img4.1b155ff0.jpg": "/ciervoxPortfolio/static/media/img4.1b155ff0.jpg",
+    "static/media/img5.9157a601.jpg": "/ciervoxPortfolio/static/media/img5.9157a601.jpg",
+    "static/media/img6.449e62cd.jpg": "/ciervoxPortfolio/static/media/img6.449e62cd.jpg",
+    "static/media/img7.615c0c33.jpg": "/ciervoxPortfolio/static/media/img7.615c0c33.jpg",
+    "static/media/img8.116789b6.jpg": "/ciervoxPortfolio/static/media/img8.116789b6.jpg",
+    "static/media/img9.308cd210.jpg": "/ciervoxPortfolio/static/media/img9.308cd210.jpg",
+    "static/media/sound1.96f508e3.mp3": "/ciervoxPortfolio/static/media/sound1.96f508e3.mp3",
+    "static/media/sound2.47775ee6.mp3": "/ciervoxPortfolio/static/media/sound2.47775ee6.mp3",
+    "static/media/sound3.480d0fbf.mp3": "/ciervoxPortfolio/static/media/sound3.480d0fbf.mp3",
+    "static/media/sound4.6023ca69.mp3": "/ciervoxPortfolio/static/media/sound4.6023ca69.mp3",
+    "static/media/sound5.9c218118.mp3": "/ciervoxPortfolio/static/media/sound5.9c218118.mp3",
+    "static/media/sound6.5f669f0b.mp3": "/ciervoxPortfolio/static/media/sound6.5f669f0b.mp3",
+    "static/media/sound7.ba2d3db1.mp3": "/ciervoxPortfolio/static/media/sound7.ba2d3db1.mp3",
+    "static/media/sound8.4493adb2.mp3": "/ciervoxPortfolio/static/media/sound8.4493adb2.mp3",
+    "static/media/sound9.d3f720f5.mp3": "/ciervoxPortfolio/static/media/sound9.d3f720f5.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0bb1a3f.js",
+    "static/js/2.b5b82122.chunk.js",
+    "static/css/main.7845a2d7.chunk.css",
+    "static/js/main.c61b53e4.chunk.js"
+  ]
+}
