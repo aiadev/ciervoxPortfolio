@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ciervoxPortfolio/static/css/main.af8dcb27.chunk.css",
-    "main.js": "/ciervoxPortfolio/static/js/main.e6e41667.chunk.js",
+    "main.js": "/ciervoxPortfolio/static/js/main.7a370439.chunk.js",
     "runtime-main.js": "/ciervoxPortfolio/static/js/runtime-main.b4a02012.js",
     "static/js/2.1f8a5071.chunk.js": "/ciervoxPortfolio/static/js/2.1f8a5071.chunk.js",
     "static/js/3.0224e303.chunk.js": "/ciervoxPortfolio/static/js/3.0224e303.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.b4a02012.js",
     "static/js/2.1f8a5071.chunk.js",
     "static/css/main.af8dcb27.chunk.css",
-    "static/js/main.e6e41667.chunk.js"
+    "static/js/main.7a370439.chunk.js"
   ]
 }
